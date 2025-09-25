@@ -1,0 +1,176 @@
+Pathway,Genes_in_pathway,Dual_genes,Odds_ratio,pval,qval
+steroid synthesis,6,1,112.8,0.01577535042199682,2.7606863238494435
+Metabolism > Lipid metabolism > Cholesterol,12,1,51.0,0.03138391451663153,5.492185040410518
+Mitochondrial dynamics and surveillance > Fission,13,1,46.708333333333336,0.03396918876614229,5.944608034074902
+bile acid,14,1,43.07692307692308,0.03654985878724789,6.396225287768381
+Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,17,1,34.90625,0.044264284516037325,7.746249790306532
+Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,24,1,24.130434782608695,0.06210422922590201,10.86824011453285
+OXPHOS > Complex II > CII subunits,4,0,0.0,1.0,175.0
+OXPHOS > Complex III > CIII assembly factors,6,0,0.0,1.0,175.0
+OXPHOS > Complex III > CIII subunits,8,0,0.0,1.0,175.0
+OXPHOS > Complex IV > CIV assembly factors,29,0,0.0,1.0,175.0
+OXPHOS > Complex IV > CIV subunits,21,0,0.0,1.0,175.0
+OXPHOS > Complex V > CV assembly factors,5,0,0.0,1.0,175.0
+OXPHOS > Complex V > CV subunits,21,0,0.0,1.0,175.0
+0,100,0,0.0,1.0,175.0
+OXPHOS > OXPHOS assembly factors,66,0,0.0,1.0,175.0
+OXPHOS > Complex II > CII assembly factors,4,0,0.0,1.0,175.0
+OXPHOS > OXPHOS subunits,100,0,0.0,1.0,175.0
+OXPHOS > Respirasome assembly,4,0,0.0,1.0,175.0
+Protein import,83,0,0.0,1.0,175.0
+Signaling,12,0,0.0,1.0,175.0
+Signaling > Calcium homeostasis > Calcium cycle,9,0,0.0,1.0,175.0
+Signaling > Calcium homeostasis > EF hand proteins,11,0,0.0,1.0,175.0
+OXPHOS > Cytochrome C,2,0,0.0,1.0,175.0
+OXPHOS > Complex I > CI subunits,44,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Trafficking,7,0,0.0,1.0,175.0
+Signaling > Calcium homeostasis > Mitochondrial permeability transition pore,7,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism,2,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing,12,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > Transcription,8,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications,4,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,18,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,21,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > mtRNA granules,27,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Lipid metabolism > Cholesterol,1,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance,1,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Apoptosis,30,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Autophagy,14,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Cristae formation,4,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,7,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Fusion,8,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,5,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Mitophagy,10,0,0.0,1.0,175.0
+Mitochondrial dynamics and surveillance > Organelle contact sites,14,0,0.0,1.0,175.0
+OXPHOS > Complex I > CI assembly factors,21,0,0.0,1.0,175.0
+Signaling > Immune response,5,0,0.0,1.0,175.0
+Small molecule transport,14,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay,3,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > MIA40 | OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors | Mitochondrial dynamics and surveillance > Apoptosis,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > OXA | Mitochondrial central dogma > Translation,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > Preprotein cleavage | OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits,2,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import,6,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,3,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway,2,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway | Metabolism > Lipid metabolism > Phospholipid metabolism,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway,4,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway | Small molecule transport,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TOM,7,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TOM | Mitochondrial dynamics and surveillance,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > TOM | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,1,0,0.0,1.0,175.0
+steroid synthesis | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,1,0,0.0,1.0,175.0
+steroid synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,1,0,0.0,1.0,175.0
+steroid synthesis | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > MIA40,2,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > Import motor | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,2,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting > Import motor,4,0,0.0,1.0,175.0
+sorting and homeostasis > Protein import and sorting,8,0,0.0,1.0,175.0
+Small molecule transport > ABC transporters,8,0,0.0,1.0,175.0
+Small molecule transport > Calcium uniporter,6,0,0.0,1.0,175.0
+Small molecule transport > SLC25A family,51,0,0.0,1.0,175.0
+Small molecule transport > Sideroflexins,5,0,0.0,1.0,175.0
+nan,1,0,0.0,1.0,175.0
+other,10,0,0.0,1.0,175.0
+other | Metabolism > Sulfur metabolism,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis,4,0,0.0,1.0,175.0
+Signaling > cAMP-PKA signaling,6,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Chaperones,9,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Proteases,21,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Proteases | Metabolism > Lipid metabolism > Phospholipid metabolism,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis,3,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Fission,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,2,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Apoptosis,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Fission | Signaling,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,1,0,0.0,1.0,175.0
+sorting and homeostasis > Protein homeostasis > Chaperones | Protein import,7,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtDNA maintenance > mtDNA replication,14,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,9,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,11,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle,6,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Propanoate metabolism,4,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Pyruvate metabolism,16,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > TCA cycle,20,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > TCA-associated,15,0,0.0,1.0,175.0
+Metabolism > Detoxification,1,0,0.0,1.0,175.0
+Metabolism > Detoxification > Amidoxime reducing complex,4,0,0.0,1.0,175.0
+Metabolism > Detoxification > ROS and glutathione metabolism,27,0,0.0,1.0,175.0
+Metabolism > Detoxification > Selenoproteins,5,0,0.0,1.0,175.0
+Metabolism > Detoxification > Xenobiotic metabolism,23,0,0.0,1.0,175.0
+Metabolism > Electron carriers > Cytochromes,4,0,0.0,1.0,175.0
+Metabolism > Electron carriers > Q-linked reactions,3,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism,23,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Cardiolipin synthesis,16,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Cholesterol-associated,2,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Eicosanoid metabolism,3,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Fatty acid oxidation,40,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Ketone metabolism,8,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Itaconate metabolism,6,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Glycerol phosphate shuttle | Metabolism > Electron carriers > Q-linked reactions,1,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism > Gluconeogenesis,9,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism,5,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex,6,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,21,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Catechol metabolism,3,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > GABA metabolism,7,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Glutamate metabolism,8,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Glycine cleavage system,4,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Glycine metabolism,11,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions,1,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Metabolism > Electron carriers > Q-linked reactions,1,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Glyoxylate metabolism | Metabolism > Electron carriers > Q-linked reactions,1,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Kynurenine metabolism,3,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Lysine metabolism,13,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Proline metabolism,5,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Proline metabolism | Metabolism > Electron carriers > Q-linked reactions,1,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Serine metabolism,5,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Urea cycle,7,0,0.0,1.0,175.0
+Metabolism > Carbohydrate metabolism,6,0,0.0,1.0,175.0
+Metabolism > Amino acid metabolism > Glyoxylate metabolism,7,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions,2,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Lipoate insertion,4,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Phospholipid metabolism,20,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Choline and betaine metabolism,3,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Folate and 1-C metabolism,20,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin A metabolism,5,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin B1 metabolism,1,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin B12 metabolism,4,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin B2 metabolism,3,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin B6 metabolism,2,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin C metabolism,2,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Biotin utilizing proteins,5,0,0.0,1.0,175.0
+Metabolism > Vitamin metabolism > Vitamin D metabolism,2,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation > Mitochondrial ribosome,83,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation > Translation factors,15,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation > Translation factors | Protein import,1,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation > fMet processing,1,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation > fMet processing | Protein import,2,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation > mt-tRNA synthetases,22,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtDNA maintenance,4,0,0.0,1.0,175.0
+Mitochondrial central dogma > mtDNA maintenance > mtDNA modifications,1,0,0.0,1.0,175.0
+Mitochondrial central dogma > Translation,8,0,0.0,1.0,175.0
+steroid synthesis | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Vitamin metabolism > Vitamin D metabolism,1,0,0.0,1.0,175.0
+Metabolism > Sulfur metabolism,10,0,0.0,1.0,175.0
+Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,23,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Type II fatty acid synthesis,8,0,0.0,1.0,175.0
+Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Lipid metabolism > Cholesterol,1,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Carnitine shuttle,5,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Carnitine synthesis and transport,6,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Coenzyme A metabolism,5,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Coenzyme Q metabolism,13,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Copper metabolism,7,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,19,0,0.0,1.0,175.0
+Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing | Metabolism > Electron carriers > Q-linked reactions,1,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Fe-S-containing proteins,29,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Heme-containing proteins,9,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Iron homeostasis,5,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins,5,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,14,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Tetrahydrobiopterin synthesis,3,0,0.0,1.0,175.0
+Metabolism > Nucleotide metabolism,2,0,0.0,1.0,175.0
+Metabolism > Nucleotide metabolism > Creatine metabolism,4,0,0.0,1.0,175.0
+Metabolism > Nucleotide metabolism > Nucleotide import,10,0,0.0,1.0,175.0
+Metabolism > Metals and cofactors > Heme synthesis and processing,14,0,0.0,1.0,175.0
+steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins,4,0,0.0,1.0,175.0
