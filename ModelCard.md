@@ -10,10 +10,10 @@
 3. **Dimensionality reduction:** **IncrementalPCA (2D)** and **UMAP** for visualization.
 4. **Clustering:** **MiniBatchKMeans (k=12)** for unsupervised partitioning of the proteome into modules.
 5. **Biological mapping:** Cluster enrichment against **SubMitoLocalization** and **MitoPathway** annotations.
-6. **Network analysis:** Bipartite **gene–pathway** graph, degree centrality to identify pathway hubs.
-7. **Minimal-edit mutagenesis module:** Sliding N-terminal windows (18–21 aa) undergo minimal edits that alter **charge**, **hydropathy**, and **helix propensity**, then re-embedded and rescored to estimate **import-signal tunability**.
+6. **Network analysis:** Bipartite **gene√êpathway** graph, degree centrality to identify pathway hubs.
+7. **Minimal-edit mutagenesis module:** Sliding N-terminal windows (18-21 aa) undergo minimal edits that alter **charge**, **hydropathy**, and **helix propensity**, then re-embedded and rescored to estimate **import-signal tunability**.
 
-**What this “model” outputs:**
+**What this model outputs:**
 - 2D projections (PCA/UMAP) that organize proteins by embedding similarity.
 - Cluster labels per protein (`cluster_k`) and their enrichment profiles.
 - Ranked lists of proteins/windows predicted to **increase** or **decrease** import-like scores after minimal edits.
@@ -24,7 +24,7 @@
 - **Exploratory analysis** of mitochondrial proteome organization, to identify:
   - compartment-associated embedding structure,
   - pathway-associated modules,
-  - hub pathways in gene–pathway networks,
+  - hub pathways in gene-pathway networks,
   - candidate proteins whose N-termini appear **tunable** for mitochondrial targeting.
 
 ### Secondary intended use
@@ -66,18 +66,18 @@ The ESM2 model is pre-trained by its authors on large-scale protein sequence cor
 ## Evaluation and validation
 ### What was evaluated
 - **Qualitative biological face validity:** Whether compartments/pathways show coherent structure in embedding space (PCA/UMAP) and cluster enrichment.
-- **Internal consistency:** Robustness checks via alternate PCA settings (“variant PCA” figure).
+- **Internal consistency:** Robustness checks via alternate PCA settings (variant PCA figure).
 - **Import-tunability sensitivity:** Distribution and magnitude of score shifts under minimal edits, including ranked candidates.
 
 ### What was not evaluated (limitations of evaluation)
 - No direct experimental benchmarking of predicted import efficiency (e.g., in vitro import assays, reporter localization).
-- No calibration of “import-like scores” to absolute import probability.
+- No calibration of import-like scores to absolute import probability.
 - No systematic comparison against dedicated mitochondrial targeting predictors as a ground-truth benchmark within this pipeline.
 
 ## Metrics
 Because this is primarily an unsupervised analysis and design-suggestion pipeline, typical supervised metrics (accuracy, AUROC) are not central. Reported outputs include:
 - Cluster composition and enrichment patterns (counts/fractions by compartment/pathway).
-- Centrality measures in the gene–pathway graph (e.g., degree centrality rankings).
+- Centrality measures in the gene-pathway graph (e.g., degree centrality rankings).
 - Import-like score distributions, and **delta score** distributions after edits.
 - Proportion of proteins exceeding a tunability threshold (e.g., top ~15% by |delta| in your analysis).
 
@@ -86,13 +86,13 @@ Results can vary with:
 - Sequence representation and header parsing (symbol mapping, isoform handling).
 - Inclusion/exclusion of non-canonical sequences or mitochondrial-encoded proteins.
 - Standardization choices, UMAP parameters, and the selected k for KMeans.
-- Window length (18–21 aa) and the specific edit heuristics used (charge/hydropathy/helix changes).
+- Window length (18-21 aa) and the specific edit heuristics used (charge/hydropathy/helix changes).
 - Underlying biases of large pLM embeddings (training-set biases and protein-family prevalence).
 
 ## Limitations
 - **Embeddings are not ground truth:** Similarity in embedding space can reflect many factors (family, composition, motifs) and may not imply the same compartment in all cases.
 - **Annotation noise and multiplicity:** MitoCarta assignments are curated but not error-free, and multi-localization reflects both biology and annotation complexity.
-- **Import-like scoring is a proxy:** The mutagenesis “score” reflects modeled features and embedding changes, not measured TOM/TIM import kinetics.
+- **Import-like scoring is a proxy:** The mutagenesis √íscore√ì reflects modeled features and embedding changes, not measured TOM/TIM import kinetics.
 - **Edge cases:** Proteins that use internal targeting sequences, non-canonical targeting, or signal-anchor mechanisms may not be captured by N-terminal window scanning.
 - **Mitochondrial-encoded proteins:** Their targeting logic differs (not imported via TOM/TIM), and mixing them with nuclear-encoded proteins can complicate interpretations if not handled explicitly.
 
@@ -102,7 +102,7 @@ Results can vary with:
 - If integrating with human variant data, treat outputs as hypothesis-generating, not diagnostic.
 
 ## Recommendations for responsible use
-- Validate top targeting edits experimentally (e.g., N-terminus–GFP reporter assays, microscopy, subcellular fractionation, in vitro import assays).
+- Validate top targeting edits experimentally (e.g., N-terminus-GFP reporter assays, microscopy, subcellular fractionation, in vitro import assays).
 - Use multiple complementary predictors or evidence sources when making targeting claims.
 - Document parameters (UMAP/KMeans/window rules) and keep analysis reproducible via pinned environments.
 
@@ -120,3 +120,4 @@ If you use this repository, please cite:
 
 ## Contact
 For questions or collaborations related to mitochondrial embedding analysis or targeting design workflows, open a GitHub issue in the repository.
+
