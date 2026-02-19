@@ -83,6 +83,8 @@ The dataset provides curated annotations of the human mitochondrial proteome for
 - Embeddings depend on training data bias from UniRef50.
 
 ## Citation
-- **Petalcorin, M. I. R. (2025).** Mitochondrial Protein Embeddings Reveal Tunable Import Signals and Modular Design Principles. Github
-- Lin et al. (2023). *Science, 379(6637), 1123–1130.*
-- Rives et al. (2021). *PNAS, 118(15), e2016239118.*
+**Petalcorin, M. I. R. (2026).** Embedding-Guided Design Rules for Programmable Mitochondrial Protein Import and Modular Organelle Organization. chemRxiv. https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000040/v1
+
+## References
+Lin et al. (2023). *Science, 379(6637), 1123–1130.*
+Rives et al. (2021). *PNAS, 118(15), e2016239118.*
